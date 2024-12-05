@@ -1,0 +1,12 @@
+Welcome to the Cave of Unmei tutorial!
+
+When you a prompted to make a decision, simply type your choice by its number. For example, just type 1.
+
+AC - AC is Armor Class, a phrase used for tabletop roleplaying games like Dungeons and Dragons, and is used to say how likely you are hit something. You need to roll the AC number or higher then the AC to successfully hit a target
+
+DC - DC, similar to AC, decides how hard a task is. You need to roll the DC number or higher then the DC to successfully complete the task
+
+Critical Fail and Success - Rolling a 1 on the dice leads to a Critical Fail. A Critical Fail is when you royally screw up what you were trying to do, leading to usually funny results. Rolling a 20 on the dice leads to a Critical Success. A Critical Success is when you succeed so much, you do more and get more rewards. Both Critical Fails and Success lead to endings. 
+
+There are 10 Endings, so make sure to try everything. (Hint, sometimes you need to critically succeed to see a special ending.)
+ 
